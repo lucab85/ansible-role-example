@@ -1,0 +1,17 @@
+
+---
+
+yaml-files:
+  - '*.yaml'
+  - '*.yml'
+  - '.yamllint'
+
+rules:
+  truthy:
+    allowed-values:
+      - 'true'
+      - 'True'
+      - 'false'
+      - 'False'
+      - 'yes'
+      - 'no'

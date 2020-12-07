@@ -9,5 +9,9 @@ galaxy_info:
 
   galaxy_tags: []
 
+  platforms:
+   - name: Fedora
+     versions:
+     - all
+
 dependencies: []
-  
